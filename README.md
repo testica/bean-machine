@@ -16,7 +16,7 @@ Simulation of Bean Machine built in pyhton.
 `python bean_machine.py -l 20 -b 500`
 
 output: `[0, 0, 0, 1, 1, 11, 9, 44, 46, 82, 79, 90, 56, 52, 21, 4, 4, 0, 0, 0, 0]`
-(output may be diferent)
+(output may be different)
 
 -------------------------------------------------------
 10 levels and 800 balls are thrown
